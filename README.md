@@ -1,2 +1,3 @@
 # AdventOfCode2023
- Advent of Code 2023
+* Day 1: C#
+* Day 2: Elixir
